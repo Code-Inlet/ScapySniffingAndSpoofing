@@ -1,0 +1,2 @@
+#SEED Labs Sniffing and Spoofing Lab
+Hello, you probably arrived here from the Code Inlet blog. This repo contains the source code for the Sniffing and Spoofing SEED Labs lab report that I made a post about.
